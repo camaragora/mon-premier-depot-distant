@@ -9,6 +9,6 @@ public class Employe{
 		
 	}
 	public void afficher(){
-		System.out.printLn("bonjour ");
+		System.out.println("bonjour ");
 	}
 }
